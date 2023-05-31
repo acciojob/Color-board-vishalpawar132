@@ -8,7 +8,7 @@ const container = document.querySelector(".container");
 
       // Change background color on hover
       box.addEventListener("mouseenter", function() {
-        box.style.backgroundColor = "blue";
+        box.style.backgroundColor = "rgb(29, 29, 29)";
       });
 
       // Transition back to original color after 1 second
